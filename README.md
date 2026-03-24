@@ -64,5 +64,5 @@ This project was created as part of a web development internship assignment to d
 
 ## 👨‍💻 Author
 ## Made with ❤️ by Sachin
-📧 Contact For feedback, suggestions, or queries, reach out at:
+📧 Contact For feedback, suggestions, or queries, reach out at:<br>
 📩 Email : sachin.webdevv@gmail.com

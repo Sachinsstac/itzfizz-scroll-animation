@@ -955,7 +955,7 @@ button {
   align-items: center;
   justify-content: center; /* center content */
   
-  width: 250px;   /* 🔥 SAME SIZE FIX */
+  width: 250px;   /*SAME SIZE FIX */
   
   gap: 12px;
   padding: 9px 25px;  /* left-right hata diya */

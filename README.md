@@ -63,5 +63,4 @@ This project was created as part of a web development internship assignment to d
 ---
 
 ## 👨‍💻 Author
-
 Sachin

@@ -12,7 +12,7 @@
    Custom cursor: NONE
    Parallax: NONE
    Blur/filter: NONE in JS
-   =========================================================== */
+   ========================================================== */
 
 gsap.registerPlugin(ScrollTrigger);
 
